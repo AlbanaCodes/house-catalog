@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"name": "Homes with pool",
+		"imgFileName": "../src/assets/pic/housecategories/poolhouses.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Lake Houese",
+		"imgFileName": "../src/assets/pic/housecategories/lakehouses.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Country Side Houses",
+		"imgFileName": "../src/assets/pic/housecategories/poolhouses.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Homes with Garden",
+		"imgFileName": "../src/assets/pic/housecategories/poolhouses.jpg"
+	}
+]
