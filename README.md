@@ -1,6 +1,6 @@
 # House-Catalog
 
-This is a very simple vue project to demonstrate vue routing.
+This is a basic and simple vue project to demonstrate vue routing.
 
 ## Sources
  - [images](https://www.pexels.com) - house images and pictures used in this project
